@@ -1,0 +1,23 @@
+#cx{
+    margin: auto;
+    border: 2px solid #000;
+    width: 400px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 18pt;
+    font-family: Verdana;
+    margin-bottom: 30px;
+}
+
+#btn{
+    margin: 0 auto;
+    display: block;
+    width: 100px;
+    height: 60px;
+    font-size: 14pt;
+    font-family: Verdana;
+    border-radius: 5px;
+    text-align: center;
+    align-items: center;
+}
